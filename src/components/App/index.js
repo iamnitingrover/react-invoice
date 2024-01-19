@@ -49,7 +49,7 @@ class App extends PureComponent {
             </div>
           </div>
           <footer className="App-footer">
-            <a href="https://github.com/dev-geddy/react-invoice" target="_blank">react invoice</a> by <a href="https://github.com/dev-geddy" target="_blank">dev-geddy</a>
+          <a href="#" target="_blank">react invoice</a> by <a href="#" target="_blank">test</a>
           </footer>
         </div>
       </ThemeProvider>
